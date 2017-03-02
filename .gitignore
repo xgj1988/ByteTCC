@@ -21,3 +21,11 @@ hs_err_pid*
 /bytetcc-supports/.gitignore
 /bytetcc-supports/.project
 target
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
